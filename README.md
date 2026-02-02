@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm Manar 
+#  Hey there, I'm Manar 
 
-🎓 **AI Engineering Student** | 🤖 **Machine Learning & Deep Learning Enthusiast** | 🌍 **Morocco**
+ **AI Engineering Student** 
 
 ---
 
-## 🧠 Who am I ?
+## Who am I ?
 
 I’m an **AI Engineering student** fascinated by how intelligence can emerge from  
 *math, data, and carefully written code*.
@@ -21,7 +21,7 @@ Being part of a new generation entering AI means:
 
 ---
 
-## 🔍 What I like to build and explore
+## What I like to build and explore
 
 I enjoy working on projects that sit between **theory and practice**, including:
 
