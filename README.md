@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey there, I'm Manar 
 
-<!--
-**maaanarre/maaanarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Engineering Student** | 🤖 **Machine Learning & Deep Learning Enthusiast** | 🌍 **Morocco**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Who am I ?
+
+I’m an **AI Engineering student** fascinated by how intelligence can emerge from  
+*math, data, and carefully written code*.
+
+I don’t just enjoy making models work —  
+I enjoy understanding **why** they work, **when** they fail, and **what that says about intelligence itself**.
+
+Being part of a new generation entering AI means:
+- learning fast,
+- building from scratch,
+- and questioning things that already “work”.
+
+(And yes, Googling a lot — but with intent.)
+
+---
+
+## 🔍 What I like to build and explore
+
+I enjoy working on projects that sit between **theory and practice**, including:
+
+- Teaching machines to **see, listen, and make decisions**
+- Turning research papers into **reproducible, usable systems**
+- Exploring both **classical approaches (GMMs, MFCCs)** and **modern deep learning**
+- Designing pipelines that are not only accurate, but **understandable**
+
+I care less about models that only perform well on benchmarks,  
+and more about systems that **make sense when you look inside them**.
