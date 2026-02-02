@@ -27,7 +27,7 @@ I enjoy working on projects that sit between **theory and practice**, including:
 
 - Teaching machines to **see, listen, and make decisions**
 - Turning research papers into **reproducible, usable systems**
-- Exploring both **classical approaches ** and **modern deep learning**
+- Exploring both **classical approaches** and **modern deep learning**
 - Designing pipelines that are not only accurate, but **understandable**
 
 I care less about models that only perform well on benchmarks,  
