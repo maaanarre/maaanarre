@@ -9,7 +9,7 @@
 I’m an **AI Engineering student** fascinated by how intelligence can emerge from  
 *math, data, and carefully written code*.
 
-I don’t just enjoy making models work —  
+I don’t just enjoy making models work  
 I enjoy understanding **why** they work, **when** they fail, and **what that says about intelligence itself**.
 
 Being part of a new generation entering AI means:
@@ -17,7 +17,7 @@ Being part of a new generation entering AI means:
 - building from scratch,
 - and questioning things that already “work”.
 
-(And yes, Googling a lot — but with intent.)
+(And yes, Googling a lot but with intent ;) )
 
 ---
 
